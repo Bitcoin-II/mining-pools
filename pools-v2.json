@@ -17,7 +17,7 @@
     "tags": [],
     "link": "https://1miner.net"
   },
-  {
+    {
     "id": 3,
     "name": "Jellyfc",
     "addresses": [
@@ -28,6 +28,15 @@
   },
   {
     "id": 4,
+    "name": "Jellyfc (SOLO)",
+    "addresses": [
+      "13HwyRiReAtVDxuiFDhCnhT8tiFtjxe2vr"
+    ],
+    "tags": [],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 5,
     "name": "Letsmine",
     "addresses": [
       "bc1qu5euj3ac7l5f57gtzcfmc74wjg2qzplc6wkz5v"
