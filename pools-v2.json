@@ -43,5 +43,14 @@
     ],
     "tags": ["/letsmine.it/"],
     "link": "https://letsmine.it"
+  },
+  {
+    "id": 6,
+    "name": "Ugpool",
+    "addresses": [
+      "1Cj67ZRt9hxqFXR64fjR12vbr65Fvi9ond"
+    ],
+    "tags": [],
+    "link": "https://ugpool.org"
   }
 ]
