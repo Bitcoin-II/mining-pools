@@ -1784,5 +1784,32 @@
     "addresses": [],
     "tags": ["parasite"],
     "link": "https://parasite.space"
+  },
+  {
+    "id": 166,
+    "name": "1Miner",
+    "addresses": [
+      "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk"
+    ],
+    "tags": ["1miner"],
+    "link": "https://1miner.net"
+  },
+  {
+    "id": 167,
+    "name": "Jellyfc",
+    "addresses": [
+      "16Xi1RaVjN9rcUw99eVJ2QnNY3gNsGBThM"
+    ],
+    "tags": ["jellyfc"],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 168,
+    "name": "Letsmine",
+    "addresses": [
+      "bc1qu5euj3ac7l5f57gtzcfmc74wjg2qzplc6wkz5v"
+    ],
+    "tags": ["letsmine"],
+    "link": "https://letsmine.it"
   }
 ]
