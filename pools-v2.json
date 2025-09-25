@@ -52,5 +52,14 @@
     ],
     "tags": [],
     "link": "https://ugpool.org"
+  },
+  {
+    "id": 7,
+    "name": "Zpool",
+    "addresses": [
+      "1QHmuZcwLi8aHLLHDXYye1SJmqoDTZppnW"
+    ],
+    "tags": ["/zpool.ca/"],
+    "link": "https://zpool.ca"
   }
 ]
