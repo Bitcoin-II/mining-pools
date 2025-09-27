@@ -61,5 +61,14 @@
     ],
     "tags": ["/zpool.ca/"],
     "link": "https://zpool.ca"
+  },
+  {
+    "id": 8,
+    "name": "AltcoinsPool",
+    "addresses": [
+      "1g7xn9JFVQputkPTrEW7G2FDMMo2VpZXt"
+    ],
+    "tags": ["/Official/"],
+    "link": "https://AltcoinsPool.cc"
   }
 ]
