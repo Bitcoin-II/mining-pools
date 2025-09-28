@@ -70,5 +70,14 @@
     ],
     "tags": ["Official"],
     "link": "https://AltcoinsPool.cc"
+  },
+  {
+    "id": 9,
+    "name": "NerdPool",
+    "addresses": [
+      "1NeMusT3aBLR4qd57TZBiRLz52Ave7oLP1"
+    ],
+    "tags": [],
+    "link": "https://nerdpool.xyz/#bitcoin-ii"
   }
 ]
