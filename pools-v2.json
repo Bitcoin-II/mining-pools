@@ -15,7 +15,7 @@
       "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk"
     ],
     "tags": [],
-    "link": "https://1miner.net"
+    "link": "https://1miner.net/#bc22"
   },
     {
     "id": 3,
@@ -91,15 +91,6 @@
   },
   {
     "id": 11,
-    "name": "1miner",
-    "addresses": [
-      "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk"
-    ],
-    "tags": [],
-    "link": "https://1miner.net/#bc22"
-  },
-  {
-    "id": 12,
     "name": "NitoPool",
     "addresses": [
       "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
@@ -108,7 +99,7 @@
     "link": "https://pool.nitopool.fr/#bt2pplnsbf"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "NitoPool (SOLO)",
     "addresses": [
       "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
@@ -117,7 +108,7 @@
     "link": "https://pool.nitopool.fr/#bt2solo"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "SmilingPool (SOLO)",
     "addresses": [
       "12c9XHZ5F88B5DHXnti15FM3kML3Bg6dE2"
@@ -126,7 +117,7 @@
     "link": "https://smilingpool.xyz/#bciisolo"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "ZergPool",
     "addresses": [
       "bc1qjgtk456ge3gwvpf7c60f697syqhl8my0nn54pm"
@@ -135,7 +126,7 @@
     "link": "https://zergpool.com"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "NitroPool",
     "addresses": [
       "1LSHpwmHT9x78f59rVqoXPxWQPhXAo3PP8"
