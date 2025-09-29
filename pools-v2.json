@@ -79,5 +79,68 @@
     ],
     "tags": [],
     "link": "https://nerdpool.xyz/#bitcoin-ii"
+  },
+  {
+    "id": 10,
+    "name": "Hash-Hut",
+    "addresses": [
+      "bc1qu0x54shkqzae8986xk8arm5j5qsukrazyuye6j"
+    ],
+    "tags": ["/hash-hut.net/"],
+    "link": "https://hash-hut.net"
+  },
+  {
+    "id": 11,
+    "name": "1miner",
+    "addresses": [
+      "13WMNLMU8RpWpuEa7dFxLskYNNSwzQMGFk"
+    ],
+    "tags": [],
+    "link": "https://1miner.net/#bc22"
+  },
+  {
+    "id": 12,
+    "name": "NitoPool",
+    "addresses": [
+      "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
+    ],
+    "tags": [],
+    "link": "https://pool.nitopool.fr/#bt2pplnsbf"
+  },
+  {
+    "id": 13,
+    "name": "NitoPool (SOLO)",
+    "addresses": [
+      "bc1q744mxn4paq02uv09x20jpe26mqdk29y0886kak"
+    ],
+    "tags": [],
+    "link": "https://pool.nitopool.fr/#bt2solo"
+  },
+  {
+    "id": 14,
+    "name": "SmilingPool (SOLO)",
+    "addresses": [
+      "12c9XHZ5F88B5DHXnti15FM3kML3Bg6dE2"
+    ],
+    "tags": [],
+    "link": "https://smilingpool.xyz/#bciisolo"
+  },
+  {
+    "id": 15,
+    "name": "ZergPool",
+    "addresses": [
+      "bc1qjgtk456ge3gwvpf7c60f697syqhl8my0nn54pm"
+    ],
+    "tags": ["zergpool.com"],
+    "link": "https://zergpool.com"
+  },
+  {
+    "id": 16,
+    "name": "NitroPool",
+    "addresses": [
+      "1LSHpwmHT9x78f59rVqoXPxWQPhXAo3PP8"
+    ],
+    "tags": ["NitroPool"],
+    "link": "https://nitropool.net"
   }
 ]
