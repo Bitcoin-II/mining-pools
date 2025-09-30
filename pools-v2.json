@@ -133,5 +133,23 @@
     ],
     "tags": ["NitroPool"],
     "link": "https://nitropool.net"
+  },
+  {
+    "id": 16,
+    "name": "SoloHash (SOLO)",
+    "addresses": [
+      "bc1qcm464wax2wtu0vtf4jwqscngx2dv38lzl2dg0r"
+    ],
+    "tags": ["Mined by SoloHash.co.uk"],
+    "link": "https://solohash.co.uk/pool/bitcoinII-solo"
+  },
+  {
+    "id": 17,
+    "name": "SoloHash",
+    "addresses": [
+      "bc1q4k5j7m8jggscys8dc4dyw09uz28c74du9m9z2u"
+    ],
+    "tags": ["Mined by SoloHash.co.uk"],
+    "link": "https://solohash.co.uk/pool/bitcoinII-pplns"
   }
 ]
