@@ -63,15 +63,7 @@
     "link": "https://zpool.ca"
   },
   {
-    "id": 18,
-<<<<<<< HEAD
-    "name": "Kryptex (SOLO)",
-    "addresses": [
-      "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
-    ],
-    "tags": ["/pool.kryptex.com/"],
-    "link": "https://pool.kryptex.com/bc2"
-=======
+    "id": 8,
     "name": "AltcoinsPool",
     "addresses": [
       "1g7xn9JFVQputkPTrEW7G2FDMMo2VpZXt"
@@ -159,6 +151,14 @@
     ],
     "tags": ["Mined by SoloHash.co.uk"],
     "link": "https://solohash.co.uk/pool/bitcoinII-pplns"
->>>>>>> 75daa1fae847c38ec88ddaa8c4508c671233673c
+  },
+  {
+    "id": 18,
+    "name": "Kryptex (SOLO)",
+    "addresses": [
+      "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
+    ],
+    "tags": ["/pool.kryptex.com/"],
+    "link": "https://pool.kryptex.com/bc2"
   }
 ]
