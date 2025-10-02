@@ -61,5 +61,14 @@
     ],
     "tags": ["/zpool.ca/"],
     "link": "https://zpool.ca"
+  },
+  {
+    "id": 8,
+    "name": "Kryptex (SOLO)",
+    "addresses": [
+      "16H61tkeGUQsUjmStKFAVeCj52A7SEug3G"
+    ],
+    "tags": ["/pool.kryptex.com/"],
+    "link": "https://pool.kryptex.com/bc2"
   }
 ]
