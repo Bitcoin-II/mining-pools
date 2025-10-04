@@ -160,5 +160,23 @@
     ],
     "tags": ["/pool.kryptex.com/"],
     "link": "https://pool.kryptex.com/bc2"
+  },
+  {
+    "id": 19,
+    "name": "Hash3030",
+    "addresses": [
+      "1Mftq4JnmERCEwr8Du4ZMgGht8HU5YJaaY"
+    ],
+    "tags": [],
+    "link": "https://hash3030.xyz/l1/#bc2solo"
+  },
+  {
+    "id": 20,
+    "name": "Koinium",
+    "addresses": [
+      "1L5SdQyU1n78UnnZ842QzbQjExfoKm8qB3"
+    ],
+    "tags": [],
+    "link": "/"
   }
 ]
