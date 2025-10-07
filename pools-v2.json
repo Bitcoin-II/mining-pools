@@ -178,5 +178,14 @@
     ],
     "tags": [],
     "link": "/"
+  },
+  {
+    "id": 20,
+    "name": "MolePool (SOLO)",
+    "addresses": [
+      "bc1qpv3makzaslp564wn2m8j7jhx7pjxyds304wl8d"
+    ],
+    "tags": ["/molepool.com/"],
+    "link": "https://bc2.molepool.com"
   }
 ]
