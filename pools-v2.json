@@ -19,7 +19,7 @@
   },
     {
     "id": 3,
-    "name": "Jellyfc",
+    "name": "JellyFC",
     "addresses": [
       "16Xi1RaVjN9rcUw99eVJ2QnNY3gNsGBThM"
     ],
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "name": "Jellyfc (SOLO)",
+    "name": "JellyFC (SOLO)",
     "addresses": [
       "13HwyRiReAtVDxuiFDhCnhT8tiFtjxe2vr"
     ],
@@ -187,5 +187,23 @@
     ],
     "tags": ["/molepool.com/"],
     "link": "https://bc2.molepool.com"
+  },
+  {
+    "id": 21,
+    "name": "JellyFC Treasury",
+    "addresses": [
+      "bc1qqjdk55n229hmrqdquh8tz3mvsqgrvvsl2x2d4h"
+    ],
+    "tags": [],
+    "link": "https://jellyfc.com"
+  },
+  {
+    "id": 22,
+    "name": "Solo Pool",
+    "addresses": [
+      "1JjZ568RjapLV7pBaU12AydCk4vyZJSpWQ"
+    ],
+    "tags": ["solopool.org"],
+    "link": "https://bc2.solopool.org"
   }
 ]
