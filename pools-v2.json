@@ -213,6 +213,15 @@
       "1AaoWQy84Hnakyrmn2BHF3bhXN1dpVHSt2"
     ],
     "tags": ["OneClickMiner.com"],
-    "link": "https://oneclickminer.com/"
+    "link": "https://oneclickminer.com"
+  },
+  {
+    "id": 24,
+    "name": "GO-MiningPool (SOLO)",
+    "addresses": [
+      "1CQs8j9jPnGTippAv97yKpdeni8pQBBy5V"
+    ],
+    "tags": ["Mined by GO-MININGPOOL"],
+    "link": "https://go-poolmining.com"
   }
 ]
