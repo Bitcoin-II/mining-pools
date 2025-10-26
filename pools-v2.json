@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "name": "Ugpool",
+    "name": "UgPool.org",
     "addresses": [
       "1Cj67ZRt9hxqFXR64fjR12vbr65Fvi9ond"
     ],
@@ -230,7 +230,7 @@
     "addresses": [
       "1Gp7D9CbqndxHJ9Qvg7attUeQYMLB84AMj"
     ],
-    "tags": [""],
+    "tags": [],
     "link": "https://ugpool.lol"
   }
 ]
