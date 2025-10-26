@@ -223,5 +223,14 @@
     ],
     "tags": ["Mined by GO-MININGPOOL"],
     "link": "https://go-poolmining.com"
+  },
+  {
+    "id": 25,
+    "name": "UgPool",
+    "addresses": [
+      "1Gp7D9CbqndxHJ9Qvg7attUeQYMLB84AMj"
+    ],
+    "tags": [""],
+    "link": "https://ugpool.lol"
   }
 ]
